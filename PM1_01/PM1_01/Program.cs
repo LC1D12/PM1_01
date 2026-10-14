@@ -1,1 +1,2 @@
-﻿Console.WriteLine("はろー!!!");
+﻿Console.WriteLine("はろーわーるど!!!");
+Console.WriteLine("はろーぷるりくえすと!!!");
